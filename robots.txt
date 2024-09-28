@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pineiali.github.io/sitemap.pineiali.gz
+Sitemap: https://pineiali.github.io/app/sitemap.pineiali.gz
+Sitemap: https://pineiali.github.io/assets/sitemap.pineiali.gz
+Sitemap: https://pineiali.github.io/css/sitemap.pineiali.gz
+Sitemap: https://pineiali.github.io/data/sitemap.pineiali.gz
+Sitemap: https://pineiali.github.io/includes/sitemap.pineiali.gz
+Sitemap: https://pineiali.github.io/item/sitemap.pineiali.gz
+Sitemap: https://pineiali.github.io/src/sitemap.pineiali.gz
